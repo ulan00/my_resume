@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.frame{
+    width: 375px;
+    height: 4435px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    position: absolute;
+    justify-content: space-evenly;
+    height: 850px;
+    left: 0px;
+    top: 3.70%;
+}
+
+.parent{
+    width: 100%;
+}
+
+#child1{
+    position: absolute;
+    left: 7%;
+    top: 5%;
+    font-family: Mulish;
+    font-size: 47px;
+    line-height: 55px;
+    color: #000000;
+}
+
+#child2{
+    position: absolute;
+    left: 7.50%;
+    top: 24%;
+    font-family: Mulish;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+}
+
+#img1{
+    position: absolute;
+    width: 316.5px;
+    height: 478px;
+    left: 31px;
+    top: 275px;
+}
+
+#img2{
+    position: absolute;
+    left: 83.30%;
+    top: 55.60px;
+}
+
+.container1{
+    width: 100%;
+    display: flex;
+    position: absolute;
+    justify-content: space-evenly;
+    height: 850px;
+    left: 0px;
+    top: 870px;
+}
+
+.parent1{
+    width: 375px;
+}
+
+#task{
+    position: absolute;
+    left: 38.50%;
+    top: 20%;
+    font-family: Mulish;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+}
+
+#task1{
+    position: absolute;
+    left: 7.50%;
+    top: 24%;
+    font-family: Mulish;
+    font-size: 18px;
+    line-height: 18px;
+    color: #000000;
+}
